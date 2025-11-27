@@ -1,4 +1,4 @@
-# 🚀 Historias de Usuario para Autenticación
+# 🚀 User Stories for Authentication
 
 ---
 
